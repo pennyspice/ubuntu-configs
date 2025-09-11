@@ -1,0 +1,11 @@
+current setup details:
+  ubuntu,
+    build-essential
+    Starship, tmux, nvim, node, gcc, java, python3, nasm (eventually)
+    curl, wget, git
+    fzf, tree
+    htop, neofetch
+    ddgr, w3m
+    fortune
+    ca-certificates
+    
