@@ -1,0 +1,13 @@
+# ~/.config/starship.toml
+
+format = '$directory$character'
+add_newline = false
+
+[directory]
+style = "bold #d79921"
+format = "[$path]($style)"
+
+[character]
+success_symbol = "[@](bold #98971a)"
+error_symbol = "[@](bold #cc241d)"
+vicmd_symbol = "[@](bold #458588)"
