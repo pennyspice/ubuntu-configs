@@ -1,11 +1,11 @@
-current setup details:
-  ubuntu,
-    build-essential
-    Starship, tmux, nvim, node, gcc, java, python3, nasm (eventually)
-    curl, wget, git
-    fzf, tree
-    htop, neofetch
-    ddgr, w3m
-    fortune
-    ca-certificates
-    
+linux ubuntu (wsl, userland, native) setup details/guide.
+So I can track the stuff I use for each time I fresh install. 
+
+build-essential
+Starship, tmux, vim, nvim (optional), node, gcc, java, python3
+curl, wget, git
+fzf, tree
+htop, neofetch
+ddgr, w3m
+fortune
+ca-certificates
